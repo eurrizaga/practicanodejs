@@ -1,0 +1,19 @@
+{"level":"warn","message":"this is a warning message","timestamp":"2016-03-23T14:06:52.609Z"}
+{"level":"warn","message":"this is a warning message","timestamp":"2016-03-23T14:10:52.380Z"}
+{"level":"error","message":"this is an error message","timestamp":"2016-03-23T14:10:52.390Z"}
+{"level":"info","message":"this is an info message","timestamp":"2016-03-23T14:10:52.390Z"}
+{"level":"warn","message":"this is a warning message","timestamp":"2016-03-23T14:49:53.729Z"}
+{"level":"error","message":"this is an error message","timestamp":"2016-03-23T14:49:53.739Z"}
+{"level":"info","message":"Added Student aa of age 1015","timestamp":"2016-03-23T14:50:05.966Z"}
+{"level":"info","message":" - (0)aa","timestamp":"2016-03-23T14:51:23.156Z"}
+{"level":"info","message":" - (0)Course 1","timestamp":"2016-03-23T14:51:23.166Z"}
+{"level":"info","message":" - (1)Course 2","timestamp":"2016-03-23T14:51:23.166Z"}
+{"level":"info","message":" - (2)Course 3","timestamp":"2016-03-23T14:51:23.166Z"}
+{"level":"info","message":" - (0)bb","timestamp":"2016-03-23T14:53:47.461Z"}
+{"level":"info","message":" - (0)Course 1","timestamp":"2016-03-23T14:53:47.461Z"}
+{"level":"info","message":" - (1)Course 2","timestamp":"2016-03-23T14:53:47.461Z"}
+{"level":"info","message":" - (2)Course 3","timestamp":"2016-03-23T14:53:47.461Z"}
+{"level":"info","message":"- Course 1 (Teacher: bb , Students: 1)","timestamp":"2016-03-23T14:53:56.237Z"}
+{"level":"info","message":"- Course 2 (Teacher: none , Students: 0)","timestamp":"2016-03-23T14:53:56.237Z"}
+{"level":"info","message":"- Course 3 (Teacher: none , Students: 0)","timestamp":"2016-03-23T14:53:56.237Z"}
+{"level":"info","message":"Data has been saved to files","timestamp":"2016-03-23T14:54:01.533Z"}

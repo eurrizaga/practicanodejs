@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "istanbul cover _mocha -- -u -R spec"
+  },
+  "devDependencies": {
+    "should": "^8.2.2"
+  }
+}

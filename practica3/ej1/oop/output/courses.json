@@ -1,0 +1,1 @@
+[{"name":"Course 1","minimum_avg_grade":5,"students":["aa"],"teacher":"bb"},{"name":"Course 2","minimum_avg_grade":2,"students":[],"teacher":null},{"name":"Course 3","minimum_avg_grade":7,"students":[],"teacher":null}]

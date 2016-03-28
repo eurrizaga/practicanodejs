@@ -1,0 +1,12 @@
+{
+  "name": "times",
+  "version": "0.0.1",
+  "description": "",
+  "main": "times.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- -u -R spec"
+  }
+}
